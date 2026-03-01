@@ -1,0 +1,6 @@
+@TaskOne.Api_HostAddress = http://localhost:5251
+
+GET {{TaskOne.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
